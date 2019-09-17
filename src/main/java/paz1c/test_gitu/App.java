@@ -15,5 +15,6 @@ public class App
         for (int i = 0; i < 5; i++) {
 			System.out.println("Git je somarina!!");
 		}
+        System.out.println("kačky");
     }
 }
