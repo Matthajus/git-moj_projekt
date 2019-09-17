@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello Europe!" );
         System.out.println("smrad bolo citit aj na sto honov");
+        System.out.println("nefunguje????");
     }
 }
