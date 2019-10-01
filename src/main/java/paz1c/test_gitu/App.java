@@ -17,4 +17,16 @@ public class App
 		}
         System.out.println("kačky");
     }
+
+	private static int plus(int a, int b) {
+		return a + b;
+	}
+
+	private static int minus(int a, int b) {
+		return a - b;
+	}
+
+	private static int krat(int a, int b) {
+		return a * b;
+	}
 }
