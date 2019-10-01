@@ -13,7 +13,7 @@ public class App
         System.out.println("nefunguje????");
         
         for (int i = 0; i < 5; i++) {
-			System.out.println("Git je somarina!!");
+			System.out.println("Git je super!!");
 		}
         System.out.println("kačky");
     }
