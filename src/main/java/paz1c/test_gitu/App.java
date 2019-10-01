@@ -13,4 +13,8 @@ public class App
         System.out.println("adwdawd????");
         System.out.println("kačky");
     }
+    
+    private static int plus(int a, int b) {
+    	return a+b;
+    }
 }
